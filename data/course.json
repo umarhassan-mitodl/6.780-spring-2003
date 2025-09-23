@@ -1,0 +1,66 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Electronic Materials"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Process Control Systems"
+    ]
+  ],
+  "legacy_uid": "0d0bea8c-c1c4-6957-bcb8-6c8844868472",
+  "instructors": {
+    "content": [
+      "74793b53-bd2f-8b6f-4707-79ad624164bf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b7eb412f-d567-aa0a-4d30-3d3b5b6ee52b",
+    "website": "6-780-semiconductor-manufacturing-spring-2003"
+  },
+  "course_title": "Semiconductor Manufacturing",
+  "course_description": "6.780 covers statistical modeling and the control of semiconductor fabrication processes and plants. Topics covered include: design of experiments, response surface modeling, and process optimization; defect and parametric yield modeling; process/device/circuit yield optimization; monitoring, diagnosis, and feedback control of equipment and processes; and analysis and scheduling of semiconductor manufacturing operations.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.780",
+  "course_image_thumbnail": {
+    "content": "d6972850-62d2-c7c8-58d7-7326b20cb06a",
+    "website": "6-780-semiconductor-manufacturing-spring-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes",
+    "Projects",
+    "Written Assignments"
+  ],
+  "site_uid": "22039274-94f7-44e4-bffd-4bcbb4059e18",
+  "site_short_id": "6.780-spring-2003",
+  "site_url_path": "courses/6-780-semiconductor-manufacturing-spring-2003",
+  "title": "Course Metadata"
+}
