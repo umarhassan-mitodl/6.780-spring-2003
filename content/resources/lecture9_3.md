@@ -4,6 +4,8 @@ description: 'Statistics Review: Estimation'
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/5a0144749f4cd6523449bf32f3136945_lecture9_3.pdf
 file_size: 342591
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

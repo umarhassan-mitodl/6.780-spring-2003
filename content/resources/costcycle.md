@@ -4,6 +4,8 @@ description: Factory Design and Efficiency
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/7d0ee4fb16dd213382980321ded9fdfc_costcycle.pdf
 file_size: 354165
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

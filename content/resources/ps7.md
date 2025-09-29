@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/c58ddec5692f80b247a1f99f0786b624_ps7.pdf
 file_size: 25476
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
