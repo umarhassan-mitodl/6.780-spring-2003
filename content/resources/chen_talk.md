@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/3991f1efc66194c510a506d30e0f10ea_chen_talk.pdf
 file_size: 270036
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

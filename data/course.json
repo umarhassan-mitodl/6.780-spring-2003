@@ -42,7 +42,6 @@
     "website": "6-780-semiconductor-manufacturing-spring-2003"
   },
   "course_title": "Semiconductor Manufacturing",
-  "hide_download": true,
   "course_description": "6.780 covers statistical modeling and the control of semiconductor fabrication processes and plants. Topics covered include: design of experiments, response surface modeling, and process optimization; defect and parametric yield modeling; process/device/circuit yield optimization; monitoring, diagnosis, and feedback control of equipment and processes; and analysis and scheduling of semiconductor manufacturing operations.\n",
   "department_numbers": [
     "6"
@@ -53,7 +52,6 @@
     "content": "d6972850-62d2-c7c8-58d7-7326b20cb06a",
     "website": "6-780-semiconductor-manufacturing-spring-2003"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams",

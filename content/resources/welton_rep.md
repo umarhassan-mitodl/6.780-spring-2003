@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-780-semiconductor-manufacturing-spring-2003/ecedff45da4a98486f646c5e86dc8ffb_welton_rep.pdf
 file_size: 277809
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
