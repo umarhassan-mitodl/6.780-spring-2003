@@ -14,7 +14,7 @@ The purpose of the term project in 6.780 is for students to work with actual dat
 
 Two student team projects are encouraged. A single grade for the team will be assigned, based on both the written report and oral presentation.
 
-The written report should be submitted electronically. The paper should be approximately 6-8 pages in length, formatted in two columns per page format consistent with journal publications. The [IEEE](http://www.ieee.org/publications_standards/publications_standards_index.html) has a Word template that may be helpful.
+The written report should be submitted electronically. The paper should be approximately 6-8 pages in length, formatted in two columns per page format consistent with journal publications. The {{% resource_link "4b7e6025-2919-4ff2-b54d-181163ecc079" "IEEE" %}} has a Word template that may be helpful.
 
 The presentation should be 10 minutes in length, and may be presented either electronically (using the PC projector) or on overhead transparencies. It will be very important to practice the presentation and not run over the alotted time. At the conclusion of the talk, there will be five minutes for questions.
 
